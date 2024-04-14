@@ -1,3 +1,3 @@
-molecular-dynamics-fys3150
+molecular-dynamics-PHY480
 ==========================
 Project for PHY480
