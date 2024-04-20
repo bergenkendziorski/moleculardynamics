@@ -1,0 +1,2 @@
+Decided to make the choice to start from scratch in python
+Will be saving python versions in here
